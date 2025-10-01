@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="|TR| Trt 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="TR/ TURKİYE TV [HD]",|TR| Trt 1 HD
+http://185.53.90.98:8080/hll0375/hh00/20484
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Atv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png" group-title="TR/ TURKİYE TV [HD]",|TR| Atv HD
+http://185.53.90.98:8080/hll0375/hh00/6266
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="|TR| Kanal D HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="TR/ TURKİYE TV [HD]",|TR| Kanal D HD
+http://185.53.90.98:8080/hll0375/hh00/6275
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Now Tv HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/now-tv-logo.png" group-title="TR/ TURKİYE TV [HD]",|TR| Now Tv HD
+http://185.53.90.98:8080/hll0375/hh00/6276
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="|TR| Star Tv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/star.png" group-title="TR/ TURKİYE TV [HD]",|TR| Star Tv HD
+http://185.53.90.98:8080/hll0375/hh00/6270
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Show Tv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="TR/ TURKİYE TV [HD]",|TR| Show Tv HD
+http://185.53.90.98:8080/hll0375/hh00/6273
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="|TR| Beyaz TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beyaz.png" group-title="TR/ TURKİYE TV [HD]",|TR| Beyaz TV HD
+http://185.53.90.98:8080/hll0375/hh00/6277
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="|TR| Kanal 7 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanal_7.png" group-title="TR/ TURKİYE TV [HD]",|TR| Kanal 7 HD
+http://185.53.90.98:8080/hll0375/hh00/6278
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="|TR| Tv 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR/ TURKİYE TV [HD]",|TR| Tv 8 HD
+http://185.53.90.98:8080/hll0375/hh00/20742
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="|TR| Tv 8.5 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tv_8-5.png" group-title="TR/ TURKİYE TV [HD]",|TR| Tv 8.5 HD
+http://185.53.90.98:8080/hll0375/hh00/6281
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="|TR| Teve 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/teve2.png" group-title="TR/ TURKİYE TV [HD]",|TR| Teve 2 HD
+http://185.53.90.98:8080/hll0375/hh00/6279
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| A2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_2.png" group-title="TR/ TURKİYE TV [HD]",|TR| A2 HD
+http://185.53.90.98:8080/hll0375/hh00/6268
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Flash TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/flash_tv_tr.png" group-title="TR/ TURKİYE TV [HD]",|TR| Flash TV
+http://185.53.90.98:8080/hll0375/hh00/20812
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="|TR| Ülke TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ulke_tv_tr.png" group-title="TR/ TURKİYE TV [HD]",|TR| Ülke TV
+http://185.53.90.98:8080/hll0375/hh00/20814
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Trt 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Trt 1 FHD
+http://185.53.90.98:8080/hll0375/hh00/358053
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Atv FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Atv FHD
+http://185.53.90.98:8080/hll0375/hh00/192065
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Now FHD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/now-tv-logo.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Now FHD
+http://185.53.90.98:8080/hll0375/hh00/358052
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal D FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Kanal D FHD
+http://185.53.90.98:8080/hll0375/hh00/192068
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Star Tv FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/star.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Star Tv FHD
+http://185.53.90.98:8080/hll0375/hh00/192066
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Show Tv FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Show Tv FHD
+http://185.53.90.98:8080/hll0375/hh00/192067
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tv 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR/ TURKİYE TV [FHD]",|TR| Tv 8 FHD
+http://185.53.90.98:8080/hll0375/hh00/192072
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="|TR| Trt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_haber.png" group-title="TR/ HABER KANALLARI",|TR| Trt Haber
+http://185.53.90.98:8080/hll0375/hh00/6208
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="|TR| A Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png" group-title="TR/ HABER KANALLARI",|TR| A Haber HD
+http://185.53.90.98:8080/hll0375/hh00/20768
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="|TR| Tgrt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_haber.png" group-title="TR/ HABER KANALLARI",|TR| Tgrt Haber
+http://185.53.90.98:8080/hll0375/hh00/6209
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Cnn Türk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="TR/ HABER KANALLARI",|TR| Cnn Türk HD
+http://185.53.90.98:8080/hll0375/hh00/6210
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="|TR| Haber Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png" group-title="TR/ HABER KANALLARI",|TR| Haber Türk
+http://185.53.90.98:8080/hll0375/hh00/6212
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sözcü SZC Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR/ HABER KANALLARI",|TR| Sözcü SZC Tv
+http://185.53.90.98:8080/hll0375/hh00/196229
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="|TR| Haber Global HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haber_global.png" group-title="TR/ HABER KANALLARI",|TR| Haber Global HD
+http://185.53.90.98:8080/hll0375/hh00/6219
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="|TR| Ntv Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="TR/ HABER KANALLARI",|TR| Ntv Haber HD
+http://185.53.90.98:8080/hll0375/hh00/101114
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| 24 TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24_tv.png" group-title="TR/ HABER KANALLARI",|TR| 24 TV
+http://185.53.90.98:8080/hll0375/hh00/20748
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="|TR| Halk TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/halk_tv.png" group-title="TR/ HABER KANALLARI",|TR| Halk TV
+http://185.53.90.98:8080/hll0375/hh00/20758
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Krt TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/krt_tr.png" group-title="TR/ HABER KANALLARI",|TR| Krt TV
+http://185.53.90.98:8080/hll0375/hh00/101118
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="|TR| Tele 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tele_1_tr.png" group-title="TR/ HABER KANALLARI",|TR| Tele 1
+http://185.53.90.98:8080/hll0375/hh00/101115
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Az Tv Haber [Azerbaycan]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/aztv.png" group-title="TR/ HABER KANALLARI",|TR| Az Tv Haber [Azerbaycan]
+http://185.53.90.98:8080/hll0375/hh00/197037
